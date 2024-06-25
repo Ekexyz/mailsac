@@ -10,7 +10,7 @@ ${mailsac_email}                ........................@mailsac.com
 
 *** Keywords ***
 Get Last Mailsac Email
-    [Documentation]             Return the latest email content from Mailsac inbox
+    [Documentation]             Return the latest Email content from Mailsac Inbox.
 
     # Set headers
     ${headers}=                 Create Dictionary
